@@ -1,0 +1,15 @@
+.calm,
+.aggressive {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.calm {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.aggressive {
+  background-color: yellow;
+}
